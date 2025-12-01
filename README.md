@@ -1,0 +1,40 @@
+# OSteve – Vícios
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hasta hoy, quién pagó tus
+vicios caros
+fui siempre yo.
+Aposté, por tu juego arriesgado
+pero no gané.
+Y tuve que robar, para poder
+conseguir
+lo que me ibas a pedir.
+Y que tonto fui, no pude ver,
+no quise reconocer,
+te reías de mí.
+Ya no queda nada, la caja está
+vacía
+yo sabía que ese día tu te
+irías.
+Y estoy desesperado, y necesito
+un trago
+ahora descubrí que soy esclavo
+de tus vicios caros.
+'Fuiste mala, fuiste muy muy
+mala ...'
+Y tuve que robar
+'Y yo tuve que robar' y trabajar
+y que tonto fui
+'pero yo que tonto fui'
+Cómo te perdí...
+Ya no queda nada, la caja está
+vacía
+yo sabía que ese día tu te
+irías.
+Y estoy desesperado, y necesito
+un trago
+ahora descubrí que soy esclavo
+de tus vicios caros.
+```
