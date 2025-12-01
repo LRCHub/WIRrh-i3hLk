@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Vícios",
+  "base_artist": "OSteve",
+  "createdAt": "2025-12-01T07:47:23.475298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Amores, Vícios e Obsessões",
+      "artist": "BK",
+      "has_synced": true,
+      "path": "select/01_Amores,_Vícios_e_Obsessões_BK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vicios Y Virtudes",
+      "artist": "Violadores del Verso",
+      "has_synced": false,
+      "path": "select/02_Vicios_Y_Virtudes_Violadores_del_Verso.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vícios e Virtudes",
+      "artist": "Charlie Brown Jr.",
+      "has_synced": true,
+      "path": "select/03_Vícios_e_Virtudes_Charlie_Brown_Jr..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vicios E Virtudes",
+      "artist": "Charlie Brown Jr.",
+      "has_synced": true,
+      "path": "select/04_Vicios_E_Virtudes_Charlie_Brown_Jr..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vicios y Virtudes",
+      "artist": "Violadores del Verso",
+      "has_synced": true,
+      "path": "select/05_Vicios_y_Virtudes_Violadores_del_Verso.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vícios e Virtudes (Ao Vivo)",
+      "artist": "Charlie Brown Jr.",
+      "has_synced": true,
+      "path": "select/06_Vícios_e_Virtudes_(Ao_Vivo)_Charlie_Brown_Jr..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Like This (Johnny Vicios warehouse). gti",
+      "artist": "Natasha Bedingfield",
+      "has_synced": false,
+      "path": "select/07_Love_Like_This_(Johnny_Vicios_warehouse)._gti_Natasha_Bedingfield.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dos Vicios",
+      "artist": "Los Cadetes De Linares",
+      "has_synced": true,
+      "path": "select/08_Dos_Vicios_Los_Cadetes_De_Linares.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vícios",
+      "artist": "Duzz feat. Sobs, Scoppey & 808 Luke",
+      "has_synced": false,
+      "path": "select/09_Vícios_Duzz_feat._Sobs,_Scoppey_&_808_Luke.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vícios",
+      "artist": "Duzz",
+      "has_synced": false,
+      "path": "select/10_Vícios_Duzz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vícios",
+      "artist": "OSteve",
+      "has_synced": true,
+      "path": "select/11_Vícios_OSteve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vícios (feat. The Boy, Jé Santiago, N.A.N.A. & Dfideliz)",
+      "artist": "Recayd Mob feat. Dfideliz, Jé Santiago, N.A.N.A. & The Boy",
+      "has_synced": true,
+      "path": "select/12_Vícios_(feat._The_Boy,_Jé_Santiago,_N.A.N.A._&_Dfideliz)_Recayd_Mob_feat._Dfideliz,_Jé_Santiago,_N.A.N.A._&_The_Boy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vícios (feat. The Boy, Jé Santiago, N.A.N.A. & Dfideliz)",
+      "artist": "Recayd Mob",
+      "has_synced": true,
+      "path": "select/13_Vícios_(feat._The_Boy,_Jé_Santiago,_N.A.N.A._&_Dfideliz)_Recayd_Mob.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Vicios de Línguagem",
+      "artist": "Engenheiros Do Hawaii",
+      "has_synced": true,
+      "path": "select/14_Vicios_de_Línguagem_Engenheiros_Do_Hawaii.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nuevos Vicios",
+      "artist": "Carolina Durante",
+      "has_synced": true,
+      "path": "select/15_Nuevos_Vicios_Carolina_Durante.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vicios Caros",
+      "artist": "Ariel Rot",
+      "has_synced": false,
+      "path": "select/pl_01_Vicios_Caros_Ariel_Rot.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Vicioso",
+      "artist": "Ariel Rot",
+      "has_synced": false,
+      "path": "select/pl_02_Vicioso_Ariel_Rot.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Vicioso",
+      "artist": "Ariel Rot",
+      "has_synced": false,
+      "path": "select/pl_03_Vicioso_Ariel_Rot.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Vicioso",
+      "artist": "Ariel Rot",
+      "has_synced": false,
+      "path": "select/pl_04_Vicioso_Ariel_Rot.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Vicios Y Virtudes",
+      "artist": "Ariel Rot",
+      "has_synced": false,
+      "path": "select/pl_05_Vicios_Y_Virtudes_Ariel_Rot.txt"
+    }
+  ]
+}
